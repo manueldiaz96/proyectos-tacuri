@@ -8,3 +8,5 @@ Proyectos para la clase de Robótica del grado 9° del Aspaen Liceo Tacurí
 [Grupo de WallE](https://github.com/manueldiaz96/wallE)
 
 [Grupo de la mano robótica](https://github.com/manueldiaz96/manoRobotica)
+
+[Grupo de OTTO](https://github.com/OttoDIY/DIY)
